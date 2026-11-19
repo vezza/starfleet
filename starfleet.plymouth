@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Starfleet Command v6
+Description=Starfleet boot/shutdown display with systemd status message panel
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/starfleet/images
+ScriptFile=/usr/share/plymouth/themes/starfleet/starfleet.script
